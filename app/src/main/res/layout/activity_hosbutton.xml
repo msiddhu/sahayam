@@ -76,8 +76,7 @@
             android:layout_marginTop="30dp"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp"
-            android:textStyle="bold"
-            android:onClick="mhtele"/>
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/hosambu"

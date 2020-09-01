@@ -1,2 +1,2 @@
 # sahayam
-<img src="sahayam.jpg" width="200" height="400">
+<img src="sahayam-photo.jpg" width="200" height="400">
